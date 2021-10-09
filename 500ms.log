@@ -1,0 +1,3962 @@
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 2
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+CONNECTION: New AP connection incoming
+CONNECTION: meshConnectedCb(): we are AP
+COMMUNICATION: onData(): fromId=0
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 0: {"nodeId":214071427,"type":5,"dest":0,"from":214071427}
+SYNC: handleNodeSync(): with 0
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35120
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+CONNECTION: newConnectionTask():
+CONNECTION: newConnectionTask(): adding 214071427 now= 123880683
+MESH_STATUS: New conCOMMUNICATION: onData(): fromId=214071427
+): fromId=21407142--> startHere: New Connection, nodeId = 214071427
+MESH_STATUS: Changed connections in neighbour 214071427
+Changed connections
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":1291824450}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 34848
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":124138747}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35456
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":124352454}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35456
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38272
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38432
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38272
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+SYNC: nodeSyncTask(): request with 214071427
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38768
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"nodeId":214071427,"type":6,"dest":2888001650,"from":214071427}
+SYNC: handleNodeSync(): with 214071427
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38552
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38552
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38552
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 2
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38432
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38304
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 37968
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 2 , FreeMem: 37856
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 3 , FreeMem: 37744
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 4 , FreeMem: 37632
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 5 , FreeMem: 38536
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 6 , FreeMem: 38424
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 7 , FreeMem: 38312
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 8 , FreeMem: 37456
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 9 , FreeMem: 37344
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 10 , FreeMem: 37528
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38512
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38280
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38512
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38352
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 38800
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":184383009}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35536
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":184385328}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35536
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 37968
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":184663413}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35424
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":184872618}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35536
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38456
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"nodeId":214071427,"type":5,"dest":2888001650,"from":214071427}
+SYNC: handleNodeSync(): with 214071427
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35744
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38528
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38528
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38488
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38488
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38552
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38552
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38552
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 2
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38200
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 38720
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg"COMMUNICATION: onData(): fromId=214071427
+:{"type":1,"t0":244896040}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35344
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":244897247}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35456
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":245178023}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35456
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":245384080}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35168
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38272
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+SYNC: nodeSyncTask(): request with 214071427
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38768
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"nodeId":214071427,"type":6,"dest":2888001650,"from":214071427}
+SYNC: handleNodeSync(): with 214071427
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 37968
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 2 , FreeMem: 38872
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 3 , FreeMem: 38760
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 2 , FreeMem: 37752
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38512
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38456
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38280
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 38800
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msCOMMUNICATION: onData(): fromId=214071427
+g":{"type":1,"t0":305407062}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35424
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":305407191}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 34864
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 2 , FreeMem: 37824
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38528
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"nodeId":214071427,"type":5,"dest":2888001650,"from":214071427}
+SYNC: handleNodeSync(): with 214071427
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35744
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 37968
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 2 , FreeMem: 38872
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 3 , FreeMem: 38760
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 4 , FreeMem: 37904
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 5 , FreeMem: 37792
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38536
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38528
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38456
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38280
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 37608
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 2 , FreeMem: 38872
+GENERAL: sentBufferTask()
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 3 , FreeMem: 38920
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 4 , FreeMem: 38664
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 5 , FreeMem: 37808
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 6 , FreeMem: 37696
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 7 , FreeMem: 37312
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 8 , FreeMem: 37200
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":365498013}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 9 , FreeMem: 34552
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":368608840}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 7 , FreeMem: 34584
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"type":4,"dest":2888001650,"from":214071427,"msg":{"type":1,"t0":367829646}}
+COMMUNICATION: addMessage(): Package sent to queue beginning -> 1 , FreeMem: 35536
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38352
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+SYNC: nodeSyncTask(): request with 214071427
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38848
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+COMMUNICATION: onData(): fromId=214071427
+GENERAL: readBufferTask()
+COMMUNICATION: routePackage(): Recvd from 214071427: {"nodeId":214071427,"type":6,"dest":2888001650,"from":214071427}
+SYNC: handleNodeSync(): with 214071427
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38552
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38552
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38552
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38552
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 2
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38560
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: stationScan(): whateverYouLike
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 1
+CONNECTION: 	Found 0 nodes
+CONNECTION: connectToAP(): No unknown nodes found scan rate set to normal
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()
+GENERAL: readBufferTask()
+COMMUNICATION: sendBroadcast(): msg=Hi from node 2888001650
+COMMUNICATION: addMessage(): Package sent to queue end -> 1 , FreeMem: 38640
+GENERAL: sentBufferTask()
+COMMUNICATION: writeNext(): Package sent
+GENERAL: sentBufferTask()
+GENERAL: sentBufferTask()

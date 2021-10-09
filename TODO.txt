@@ -1,0 +1,14 @@
+Send only on change (checking every N ms - and only sending M ms or more?) OR timeout P ms
+Send all button changes
+Command
+  set target
+    (how know it's unset? broadcast "please set target"?)
+  request name
+  wipe?
+Persistent
+  Select pin(s)
+    including I2C
+  name
+    query if not known
+  data rate
+  should log to disk?
