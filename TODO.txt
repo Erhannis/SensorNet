@@ -5,6 +5,8 @@ Command
     (how know it's unset? broadcast "please set target"?)
   request name
   wipe?
+Report
+  
 Persistent
   Select pin(s)
     including I2C
