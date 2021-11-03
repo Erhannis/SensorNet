@@ -30,28 +30,12 @@ Scheduler userScheduler; // to control your personal task
 Prefs prefs;
 painlessMesh  mesh;
 
-// User stub
-void sendMessage() ; // Prototype so PlatformIO doesn't complain
-
-Task taskSendMessage( TASK_MILLISECOND * 500 , TASK_FOREVER, &sendMessage );
-
 void sendReport(String msg) {
   if (prefs.overseerId == -1) {
     mesh.sendBroadcast(msg);
   } else {
     mesh.sendSingle((uint32_t)prefs.overseerId, msg);
   }
-}
-
-void sendMessage() {
-  if (fsErr) {
-    String msg = "E:FILE ERR";
-    mesh.sendBroadcast( msg );
-  }
-  
-  String msg = "MY NAME, IS, " + prefs.name;
-  mesh.sendBroadcast( msg );
-  //taskSendMessage.setInterval( random( TASK_SECOND * 1, TASK_SECOND * 5 ));
 }
 
 void newConnectionCallback(uint32_t nodeId) {
@@ -331,8 +315,9 @@ void setup() {
   mesh.onChangedConnections(&changedConnectionCallback);
   mesh.onNodeTimeAdjusted(&nodeTimeAdjustedCallback);
 
-  userScheduler.addTask( taskSendMessage );
-  taskSendMessage.enable();
+  if (fsErr) { //TODO Repeat?
+    sendReport("E:FILE ERR");
+  }
 }
 
 int lastBtn = 1;
